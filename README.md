@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Ethereum Dapps
 - 🤔 I’m looking for help with ... Rust
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Website!](https://www.joeyalvarado.dev/)
+- 📫 Let's Connect: ... [Personal Website](https://www.joeyalvarado.dev/) | [LinkedIn](https://www.linkedin.com/in/joeyalvarado/)
 - ⚡ Fun fact: ... I make music
