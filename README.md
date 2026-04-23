@@ -1,6 +1,8 @@
 <div align="center">
 
-# DigitalOutbreak
+![Digital Outbreak](assets/banner.png)
+
+<br/>
 
 Full-stack digital agency based in Chicago.<br/>
 Custom-coded sites. Real SEO. Marketing that converts.
