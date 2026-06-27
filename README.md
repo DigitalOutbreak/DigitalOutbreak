@@ -7,7 +7,7 @@
 Full-stack digital agency based in Chicago.<br/>
 Custom-coded sites. Real SEO. Marketing that converts.
 
-**[digitaloutbreak.co](https://digitaloutbreak.co)** &nbsp;·&nbsp; **[Let's talk &rarr;](https://digitaloutbreak.co/contact)**
+**[digitaloutbreak.co](https://digitaloutbreak.com)** &nbsp;·&nbsp; **[Let's talk &rarr;](https://digitaloutbreak.co/contact)**
 
 <br/>
 
