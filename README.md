@@ -7,12 +7,13 @@ I am currently spending more of my time on Rust, backend systems, and projects I
 
 ## Projects
 
+- [Rust Order Book & Matching Engine](https://github.com/DigitalOutbreak/rust-order-book) - a deterministic Rust matching engine with price-time priority, replay, an Axum API, and a live Next.js terminal
 - [Local Web Clipper](https://github.com/DigitalOutbreak/local-web-clipper) - a browser extension that saves web content as local Markdown files
 - [CramForge](https://github.com/DigitalOutbreak/cramforge) - a local-first EPUB reader and study-pack generator
 - [Workflow](https://github.com/DigitalOutbreak/workflow) - reusable project scaffolding for AI-assisted development
 - [Portfolio](https://github.com/DigitalOutbreak/portfolio-resume) - my Astro portfolio, project case studies, résumé, and technical notes
 
-My [Rust order book and matching engine case study](https://www.joeyalvarado.dev/projects/solbook-core/) covers price-time priority, deterministic replay, validation, and testing.
+The [matching engine case study](https://www.joeyalvarado.dev/projects/solbook-core/) covers price-time priority, deterministic replay, validation, and testing in more detail.
 
 ## Tools
 
