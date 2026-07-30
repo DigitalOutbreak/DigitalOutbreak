@@ -1,25 +1,20 @@
-<div align="center">
+# Joey Alvarado
 
-![Digital Outbreak](assets/banner.png)
+I build practical software for real workflows.
 
-<br/>
+My background is in web development, SEO, and client delivery.
+I am building a stronger backend and systems foundation through projects I can explain, test, and improve.
 
-Full-stack digital agency based in Chicago.<br/>
-Custom-coded sites. Real SEO. Marketing that converts.
+## Selected work
 
-**[digitaloutbreak.com](https://digitaloutbreak.com)** &nbsp;·&nbsp; **[Let's talk &rarr;](https://digitaloutbreak.co/contact)**
+- [Local Web Clipper](https://github.com/DigitalOutbreak/local-web-clipper) - a local-first web clipping tool
+- [Cramforge](https://github.com/DigitalOutbreak/cramforge) - a focused study tool
+- [Workflow](https://github.com/DigitalOutbreak/workflow) - a developer workflow package
 
-<br/>
+## Find me
 
----
-
-### What We Do
-
-Web Design & Dev &nbsp;·&nbsp; SEO / GEO / AEO &nbsp;·&nbsp; Google & Meta Ads &nbsp;·&nbsp; AI Development
+[Portfolio](https://www.joeyalvarado.dev/) · [LinkedIn](https://www.linkedin.com/in/joeyalvarado) · [X](https://twitter.com/realjoeyalvara)
 
 ---
 
-*No templates. No page builders. No bloated agency nonsense.*<br/>
-*Just clean, fast, custom work — built to rank and convert.*
-
-</div>
+Digital Outbreak remains the home for agency and client work. This profile is my personal technical portfolio.
