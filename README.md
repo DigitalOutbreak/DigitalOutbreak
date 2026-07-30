@@ -1,20 +1,25 @@
 # Joey Alvarado
 
-I build practical software for real workflows.
+Software developer building practical web, backend, and local-first tools.
 
-My background is in web development, SEO, and client delivery.
-I am building a stronger backend and systems foundation through projects I can explain, test, and improve.
+My background is in web development and internal tools for small businesses.
+I am currently spending more of my time on Rust, backend systems, and projects I can explain, test, and improve.
 
-## Selected work
+## Projects
 
-- [Local Web Clipper](https://github.com/DigitalOutbreak/local-web-clipper) - a local-first web clipping tool
-- [Cramforge](https://github.com/DigitalOutbreak/cramforge) - a focused study tool
-- [Workflow](https://github.com/DigitalOutbreak/workflow) - a developer workflow package
+- [Local Web Clipper](https://github.com/DigitalOutbreak/local-web-clipper) - a browser extension that saves web content as local Markdown files
+- [CramForge](https://github.com/DigitalOutbreak/cramforge) - a local-first EPUB reader and study-pack generator
+- [Workflow](https://github.com/DigitalOutbreak/workflow) - reusable project scaffolding for AI-assisted development
+- [Portfolio](https://github.com/DigitalOutbreak/portfolio-resume) - my Astro portfolio, project case studies, résumé, and technical notes
 
-## Find me
+My [Rust order book and matching engine case study](https://www.joeyalvarado.dev/projects/solbook-core/) covers price-time priority, deterministic replay, validation, and testing.
 
-[Portfolio](https://www.joeyalvarado.dev/) · [LinkedIn](https://www.linkedin.com/in/joeyalvarado) · [X](https://twitter.com/realjoeyalvara)
+## Tools
 
----
+Rust, TypeScript, JavaScript, Python, React, Next.js, Astro, SQL, Git, and Figma.
 
-Digital Outbreak remains the home for agency and client work. This profile is my personal technical portfolio.
+## Links
+
+[Portfolio](https://www.joeyalvarado.dev/) · [LinkedIn](https://www.linkedin.com/in/joeyalvarado) · [X](https://x.com/joeynalvarado)
+
+I am open to software development opportunities.
